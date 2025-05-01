@@ -1,7 +1,7 @@
 // Configuracion para el cliente de la REST API 
 const config = {
     // Url por defecto (actualizarla con la IP de la VM)
-    defaultServerUrl: 'http://localhost:3000',
+    defaultServerUrl: 'http://192.168.56.103:3000',
     
     // endpoints API 
     endpoints: {
