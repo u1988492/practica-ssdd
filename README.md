@@ -55,7 +55,7 @@ cd practica-ssdd
 
 ```
 sudo apt update
-sudo apt install node.js npm
+sudo apt install nodejs npm
 ```
 
 3. Configura el servidor (desde la VM)
